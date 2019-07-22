@@ -1,0 +1,14 @@
+com\websystique\springboot\entity\UserInformation.class
+com\websystique\springboot\model\User.class
+com\websystique\springboot\dao\UserServiceDaoImpl.class
+com\websystique\springboot\configuration\HibernateUtil.class
+com\websystique\springboot\dao\UserServiceDao.class
+com\websystique\springboot\configuration\CorsConfig.class
+com\websystique\springboot\service\UserService.class
+com\websystique\springboot\SpringBootRestApiApp.class
+com\websystique\springboot\controller\RestApiController.class
+com\websystique\springboot\entity\UserAddress.class
+com\websystique\springboot\util\CustomErrorType.class
+com\websystique\springboot\configuration\CorsConfig$1.class
+com\websystique\springboot\entity\CountryDetails.class
+com\websystique\springboot\service\UserServiceImpl.class
